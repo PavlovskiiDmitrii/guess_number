@@ -1,0 +1,78 @@
+body{
+	margin: 0px 20% 0px 20%; 
+	background-color: #18335E
+}
+div{
+	border: 3px solid #000;
+	border-radius: 6px;
+}
+
+#id1{
+	height: 90%; 
+	background-color: #ADCDF3;
+	padding: 10px 30px;
+	font-size: 38px;
+	font-weight:bolder;
+	min-width : 861px;
+	min-height : 877px;
+}
+
+#id2{
+	background-color: #18335E;
+	height: 10%; 
+	padding: 10px 20% 10px 20%; 
+	margin: 0px 0px 10px 0px
+}
+
+#id3{
+   background-color: #18335E;
+	height: 700px;
+}
+
+#id4{
+	height: 60%;
+	margin-bottom: 5px; 
+	border: none;
+	border-radius: none;
+}
+
+#id5{
+	height: 35%;
+	border: none;
+	border-radius: none;
+}
+
+.class1
+{
+	background-color:#ADCDF3;
+	height: 9%;
+	width: 73px;
+	float: left;
+	margin: 20px;
+	font-size: 35px;
+	text-align: center;
+	vertical-align:center;
+	padding: 50px 40px 40px 40px ;
+}
+
+#id6{
+	background-color: white;
+	height: 30%;
+	width: 150px;
+	float: left;
+	margin: 20px; 
+	padding: 
+	font-size: 50px;
+	text-align: center;
+	vertical-align:center;
+}
+
+
+hr{
+	border: none; /* Убираем границу */
+	background-color: black; /* Цвет линии */
+	color: white; /* Цвет линии для IE6-7 */
+	height: 5px; /* Толщина линии */
+	z-index : 10;
+	width: 90%
+}
